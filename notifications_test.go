@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/conformal/btcjson"
-	"github.com/conformal/btcws"
+	"github.com/hlandauf/btcws"
 	"github.com/davecgh/go-spew/spew"
 )
 
