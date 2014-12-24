@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/conformal/btcjson"
-	"github.com/hlandauf/btcws"
+	"github.com/hlandauf/btcjson"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/hlandauf/btcws"
 )
 
 var ntfntests = []struct {
